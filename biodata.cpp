@@ -1,8 +1,7 @@
 #include <iostream>
-#include <conio.h>
 using namespace std;
-
 int main(){
-    cout<< "Hello Jakir";
-    getch();
+    cout<< "Rana" <<endl;
+     cout<< "Miah" <<endl;
+   return 0;
 }
